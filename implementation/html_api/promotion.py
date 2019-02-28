@@ -27,3 +27,4 @@ def promotion_links(url: str):
 
     return links
 
+
